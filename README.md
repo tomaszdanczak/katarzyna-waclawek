@@ -1,7 +1,7 @@
 # [katarzynawaclawek.pl](https://katarzynawaclawek.pl/)
 
 ## 1. About project
-This is a website which I created for my fiancee. While creating the website I solved a many problems and learned many new things.
+This is a website which I created for my fiancee. While creating the website I solved many problems and learned many new things.
 
 ![hero.png](gh/hero.png)
 ## 2. Stack
@@ -25,12 +25,12 @@ I was inspired by a menu which I had found in one website on the internet. I deb
 
 ![mobile-menu](gh/mobile-menu.gif)
 ### 3.2 Carousel
-I used Glide.js. I've customized settings and overridden styles to achieve effects that I wanted. I installed a few instances with different options.
+I used Glide.js. I've customized settings and overwrote some styles to achieve effects that I wanted. I installed a few instances with different options.
 
 ![carousel](gh/carousel.gif)
 
 ### 3.3 Card
-Cards have the same height and buttons are on the bottom. While hovering cursor pointer on the card it enlarges and changes shadow. Also image in the card is transformed.   
+Cards have the same height and buttons are at the bottom. While hovering cursor pointer on the card it enlarges and changes shadow. Also image in the card is transformed.   
 
 ![card](gh/card.gif)
 
@@ -71,14 +71,14 @@ I used this site to crop images [onlineconvertfree.com](https://onlineconvertfre
 
 I used this site to resize images [www.iloveimg.com](https://www.iloveimg.com/resize-image).   
 
-I used this site to convert images to webP [cloudconvert.com/](https://cloudconvert.com/).   
+I used this site to convert images to webP [cloudconvert.com](https://cloudconvert.com/).   
 
 ### 4.4 lazy loading
 Images are loaded only when it is necessary.  
 
 ![lazyloading](gh/lazyloading.gif)
 ## 5. Development
-This is my first website I've published on the Internet. I'm glad from this site, but I have some ideas to do.  
+This is my first website I've published on the Internet. I'm glad with this site, but I have some ideas to do.  
 
 In the future I'm going to work on some stuff like:
 - FAQ subpage
