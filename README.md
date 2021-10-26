@@ -1,7 +1,7 @@
 # [katarzynawaclawek.pl](https://katarzynawaclawek.pl/)
 
 ## 1. About project
-This is a website which I created for my fiancee. While creating the website I solved many problems and learned many new things.
+This is a website which I created for my fiancee. While creating the website I solved many problems and learned many new things. This project was made independently and without any starter code.
 
 ![hero.png](gh/hero.png)
 ## 2. Stack
